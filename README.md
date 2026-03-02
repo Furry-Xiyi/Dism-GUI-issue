@@ -1,6 +1,5 @@
-# Dism-GUI-issue
+# Dism GUI
 这是Dism GUI的反馈仓库 请注意 Dism GUI不开源
-# DismGUI
 
 ## 🌐 Language / 语言
 - [简体中文说明](#简体中文说明)

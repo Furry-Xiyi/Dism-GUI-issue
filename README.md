@@ -2,12 +2,12 @@
 这是Dism GUI的反馈仓库 请注意 Dism GUI不开源
 
 ## 🌐 Language / 语言
-- [简体中文说明](#简体中文说明)
-- [English Description](#english-description)
+- [🇨🇳中文说明](#中文说明)
+- [🇺🇸English Description](#english-description)
 
 ---
 
-## 简体中文说明
+## 中文说明
 
 ### 🧹 空间回收
 提供系统级的磁盘清理能力，支持扫描临时文件、更新残留、日志文件、缓存等占用空间的项目，并允许用户按需清理，释放磁盘空间、提升系统可用性。
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔒 隐私声明 (中文)
+## 🔒 隐私声明
 - 本项目仅作为 **本地工具**，不会收集、上传或共享用户的个人数据。  
 - 所有操作均在用户本地设备上完成，不涉及网络传输。  
 - 使用过程中产生的日志仅用于调试和错误排查，不会包含敏感信息。  
@@ -89,7 +89,7 @@ Supports creating and editing Windows unattended installation (Unattend.xml) con
 
 ---
 
-## 🔒 Privacy Statement (English)
+## 🔒 Privacy Statement
 - This project functions as a **local tool** and does not collect, upload, or share personal data.  
 - All operations are performed locally on the user’s device, with no network transmission involved.  
 - Logs generated during use are only for debugging and error tracking, and do not contain sensitive information.  
